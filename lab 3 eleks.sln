@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab 3 eleks", "lab 3 eleks\lab 3 eleks.csproj", "{83E8B7F1-3081-4FD0-A186-E4C51B8714FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E8B7F1-3081-4FD0-A186-E4C51B8714FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E8B7F1-3081-4FD0-A186-E4C51B8714FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E8B7F1-3081-4FD0-A186-E4C51B8714FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E8B7F1-3081-4FD0-A186-E4C51B8714FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BFDC22-BA3E-42F6-976F-ED99833FEE5E}
+	EndGlobalSection
+EndGlobal
